@@ -39,6 +39,9 @@ The program will perform the following steps:
     - Option 3: Exit the program. The program will terminate and close the scanner.
 - Repeat the search as many times as the user wants, until they choose to exit the program.
 
+
+## License
+
 This project is licensed under the MIT License. For more information, see the LICENSE file in this repository.
 
 This project was created by qwicch, a web developer. You can contact me at ilmire.kireev@gmail.com.

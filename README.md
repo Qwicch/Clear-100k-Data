@@ -40,7 +40,7 @@ The program will perform the following steps:
 - Repeat the search as many times as the user wants, until they choose to exit the program.
 
 
-## License
+## License and Author Info
 
 This project is licensed under the MIT License. For more information, see the LICENSE file in this repository.
 

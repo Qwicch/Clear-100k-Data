@@ -38,3 +38,7 @@ The program will perform the following steps:
     - Option 2: Search for a numerical position. The user can enter a numerical position to search and the program will display the word at that position in the list, or a message if the position is invalid. The position must be between 1 and 99,999.
     - Option 3: Exit the program. The program will terminate and close the scanner.
 - Repeat the search as many times as the user wants, until they choose to exit the program.
+
+This project is licensed under the MIT License. For more information, see the LICENSE file in this repository.
+
+This project was created by qwicch, a web developer. You can contact me at ilmire.kireev@gmail.com.
